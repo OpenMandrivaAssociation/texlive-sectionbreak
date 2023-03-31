@@ -1,6 +1,6 @@
 Name:		texlive-sectionbreak
 Version:	50339
-Release:	1
+Release:	2
 Summary:	LaTeX support for section breaks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sectionbreak
